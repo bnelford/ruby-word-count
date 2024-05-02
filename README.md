@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-word-count/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-word-count/actions/workflows/ruby.yml)
+
 # Word Count
 
 Given a phrase, count the occurrences of each word in that phrase.
